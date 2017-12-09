@@ -1,2 +1,2 @@
 # Game-project
-The project of creating a computer game
+The project of a computer game
